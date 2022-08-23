@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bbeckwi2/python-intro/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bbeckwi2/python-intro/HEAD) ← Click to launch an interactive session!
 
 # python-intro
 A series of notebooks going through the basics of Python.
