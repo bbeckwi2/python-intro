@@ -10,6 +10,7 @@ A series of notebooks going through the basics of Python.
  3. **ControlFlow** If then statements, while and for loops.
  4. **Subroutines** Functions, methods, objects and lambda operations.
  5. **Comprehensions** List and Dictionary Comprehensions.
+ 6. **Files** Reading and writing from files.
  
 
 ## Using this Repository
